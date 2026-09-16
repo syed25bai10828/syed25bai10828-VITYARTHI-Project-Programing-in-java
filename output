@@ -1,0 +1,33 @@
+=================================================
+ AI-POWERED DATA EXFILTRATION DETECTION SYSTEM
+=================================================
+
+[1] Dataset loaded: 140 records
+[2] Preprocessing completed
+[3] Feature engineering completed
+[4] User profiles created: 10
+[5] Isolation Forest trained
+[6] Random Forest classification initialized
+
+
+======================================
+          SECURITY ALERT
+======================================
+
+User        : U004
+Prediction  : EXFILTRATION
+Risk Score  : 91.00
+Risk Level  : CRITICAL
+
+Reasons:
+ - High outbound data transfer
+ - Large number of files accessed
+ - High transfer frequency
+ - Significant deviation from user baseline
+ - External destination
+ - Unusual login time
+
+======================================
+
+PIPELINE EXECUTION COMPLETED
+=================================================
